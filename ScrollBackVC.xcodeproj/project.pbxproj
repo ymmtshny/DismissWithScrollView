@@ -13,7 +13,6 @@
 		C5615FE91DFD41F6008E2FD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C5615FE81DFD41F6008E2FD8 /* Assets.xcassets */; };
 		C5615FEC1DFD41F6008E2FD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5615FEA1DFD41F6008E2FD8 /* LaunchScreen.storyboard */; };
 		C5615FF41DFD431E008E2FD8 /* ModalVeiwController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5615FF31DFD431E008E2FD8 /* ModalVeiwController.swift */; };
-		C5615FF61DFD70AA008E2FD8 /* DismissAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5615FF51DFD70AA008E2FD8 /* DismissAnimator.swift */; };
 		C5615FF81DFD80DE008E2FD8 /* ModalVeiwController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C5615FF71DFD80DE008E2FD8 /* ModalVeiwController.xib */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +25,6 @@
 		C5615FEB1DFD41F6008E2FD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C5615FED1DFD41F6008E2FD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C5615FF31DFD431E008E2FD8 /* ModalVeiwController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModalVeiwController.swift; sourceTree = "<group>"; };
-		C5615FF51DFD70AA008E2FD8 /* DismissAnimator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DismissAnimator.swift; sourceTree = "<group>"; };
 		C5615FF71DFD80DE008E2FD8 /* ModalVeiwController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ModalVeiwController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,7 +66,6 @@
 				C5615FE81DFD41F6008E2FD8 /* Assets.xcassets */,
 				C5615FEA1DFD41F6008E2FD8 /* LaunchScreen.storyboard */,
 				C5615FED1DFD41F6008E2FD8 /* Info.plist */,
-				C5615FF51DFD70AA008E2FD8 /* DismissAnimator.swift */,
 			);
 			path = ScrollBackVC;
 			sourceTree = "<group>";
@@ -150,7 +147,6 @@
 				C5615FF41DFD431E008E2FD8 /* ModalVeiwController.swift in Sources */,
 				C5615FE41DFD41F6008E2FD8 /* ViewController.swift in Sources */,
 				C5615FE21DFD41F6008E2FD8 /* AppDelegate.swift in Sources */,
-				C5615FF61DFD70AA008E2FD8 /* DismissAnimator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
