@@ -11,6 +11,7 @@ import UIKit
 protocol dissmissProtcol {
     func dismissDown()
     func dismissTop()
+    func dismissCancel()
 }
 
 class ModalVeiwController: UIViewController {
